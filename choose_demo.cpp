@@ -5,7 +5,7 @@
 #include "Impact_metod.h"
 #include "choose_demo.h"
 
-extern int ch_scenary_demo;
+//extern int ch_scenary_demo;
 
 // Cchoose_demo dialog
 
