@@ -5,7 +5,7 @@
 
 class Cchoose_demo : public CDialog
 {
-	DECLARE_DYNAMIC(Cchoose_demo)
+	//DECLARE_DYNAMIC(Cchoose_demo)
 
 public:
 	Cchoose_demo(CWnd* pParent = NULL);   // standard constructor
